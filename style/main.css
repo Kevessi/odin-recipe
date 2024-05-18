@@ -1,0 +1,10 @@
+.select-style {
+  height: 300px;
+  width: 100%;
+  background-color: aqua;
+  opacity: 0.9;
+}
+
+li {
+  opacity: 1;
+}
