@@ -1,7 +1,13 @@
-.title_web_format {
-  height: auto;
-  width: 300px;
+.title_image_web_format {
+  height: 200px;
+  width: 200px;
 }
 
-
-
+.image_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 100%;
+  background-color: orange;
+}
