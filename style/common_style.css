@@ -1,3 +1,10 @@
+body {
+  background-image: url("https://t4.ftcdn.net/jpg/03/07/35/21/240_F_307352129_dvr99c36HQ8fOUDwhn4awr710K0JqBSJ.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: white;
+}
 .title_image_web_format {
   height: 200px;
   width: 200px;
@@ -10,4 +17,8 @@
   height: 300px;
   width: 100%;
   background-color: orange;
+}
+
+a {
+  color: white;
 }
